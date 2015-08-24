@@ -1,6 +1,6 @@
 {
-  "name": "ksana2015-htmlfileopender",
-  "version": "1.0.0",
+  "name": "ksana2015-htmlfileopener",
+  "version": "1.0.1",
   "description": "open kdb mentioned in ksana.js",
   "main": "index.js",
   "scripts": {
